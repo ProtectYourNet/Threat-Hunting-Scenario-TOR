@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Jereme Webb
 - **Author Contact**: https://www.linkedin.com/in/jereme-webb-cyber/
-- **Date**: August 31, 2024
+- **Date**: November 20, 2024
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Jereme Webb`   
+| 1.0         | Initial draft                  | `November  20, 2024`  | `Jereme Webb`   
